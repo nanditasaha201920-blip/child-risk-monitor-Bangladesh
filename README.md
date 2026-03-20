@@ -1,6 +1,8 @@
 # 🇧🇩 Child Risk Monitor – Bangladesh
 
-## 📌 Project Overview
+## live app: https://child-risk-monitor-bangladesh-yjndvrgsk7kbxydmpebn47.streamlit.app/
+
+**##📌 Project Overview**
 
 Child Risk Monitor is a data-driven dashboard that identifies vulnerable regions in Bangladesh based on key child protection indicators such as school dropout, child labor, and early marriage.
 
