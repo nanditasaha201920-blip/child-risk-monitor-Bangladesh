@@ -1,0 +1,17 @@
+division,year,dropout_rate,child_labor_rate,child_marriage_rate
+Dhaka,2020,17.2,8.1,48.4
+Dhaka,2021,18.5,9.4,49.6
+Chittagong,2020,14.3,7.5,44.2
+Chittagong,2021,15.6,8.8,45.3
+Rajshahi,2020,20.1,9.2,66.5
+Rajshahi,2021,21.4,10.5,67.8
+Khulna,2020,18.4,8.6,61.3
+Khulna,2021,19.7,9.9,62.4
+Sylhet,2020,15.7,6.4,30.8
+Sylhet,2021,16.9,7.7,32.1
+Barishal,2020,19.1,7.2,52.5
+Barishal,2021,20.3,8.5,53.8
+Rangpur,2020,21.5,10.2,64.2
+Rangpur,2021,22.8,11.6,65.4
+Mymensingh,2020,20.8,9.8,58.6
+Mymensingh,2021,22.1,11.2,59.9
